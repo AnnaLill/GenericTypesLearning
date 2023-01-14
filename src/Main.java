@@ -69,8 +69,6 @@ public class Main {
             for (String s : spisok) {
                 System.out.println(s);
             }
-
-
         }
     }
 }
